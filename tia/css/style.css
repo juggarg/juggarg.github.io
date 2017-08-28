@@ -1,0 +1,60 @@
+
+body {
+       font-family: 'Merriweather','Oswald', sans-serif;
+       font-size: 30px;
+}
+
+#bannerDiv{
+  width:100%;
+  text-align: center;
+  background-color: black;
+  margin-bottom:50px;
+  margin-top:40px;
+
+}
+.nav{
+  /*width:100%;*/
+  background-color: #ccc;
+    /*border-bottom: 2px solid #888;*/
+}
+.nav nav-link{
+  font-size: 1.2em;
+}
+.navbar .navbar-nav{
+  float: none;
+  vertical-align: top;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.section{
+  min-height:300px;
+  /*border-bottom: 1px solid #888;*/
+  padding:2em 10em;
+}
+
+.section h1{
+  font-size:2.5em;
+  margin-bottom: 1em;
+  display:inline-block;
+}
+.section h1 img{
+  display:inline-block;
+  height:1.5em;
+  margin-right:0.5em;
+}
+.section p{
+  font-size:1.1em;
+}
+
+
+.section:nth-child(odd){
+    background:#333;
+    color:white;
+}
+
+.section:nth-child(even){
+    background:#111;
+    color:white;
+}

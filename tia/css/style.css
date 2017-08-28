@@ -31,7 +31,7 @@ body {
 .section{
   min-height:300px;
   /*border-bottom: 1px solid #888;*/
-  padding:2em 10em;
+  padding:2em 10%;
 }
 
 .section h1{

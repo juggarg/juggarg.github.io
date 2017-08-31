@@ -19,7 +19,10 @@ body {
          font-size: 1.7vw;
             box-sizing: border-box;
 }
-
+#content{
+  margin:0px;
+  padding:0px;
+}
 #banner{
   width:100%;
 }
@@ -29,7 +32,7 @@ body {
   background-color: black;
   /*margin-bottom:2%;
   margin-top:2%;*/
-  border-bottom: 1px solid gray;
+  /*border-bottom: 1px solid gray;*/
 
 }
 .nav{
@@ -70,12 +73,12 @@ body {
 
 
 .section:nth-child(odd){
-    background:#333;
+    background:#222;
     color:white;
 }
 
 .section:nth-child(even){
-    background:#111;
+    background:#000;
     color:white;
 }
 

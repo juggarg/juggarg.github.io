@@ -13,9 +13,9 @@
     font-size: 1.7vw;
   }
 }
-
+/*'Merriweather',*/
 body {
-       font-family: 'Merriweather','Oswald', sans-serif;
+       font-family:'Josefin Sans', sans-serif;
          font-size: 1.7vw;
             box-sizing: border-box;
 }

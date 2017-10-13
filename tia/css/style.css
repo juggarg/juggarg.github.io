@@ -107,6 +107,12 @@ body {
   width:5em;
 }
 
+.mb-0{
+font-weight:1em;
+}
+.mb-0 a{
+	
+}
 
 
 /*GOOGLE MAPS*/
@@ -128,3 +134,5 @@ body {
         height: 100% !important;
     }
 </style>
+
+

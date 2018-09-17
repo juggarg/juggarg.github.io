@@ -19,6 +19,8 @@ header: Juegos de Jugger
 ## Alternativas
 * Agregar un _mancha_ cuando hay más de 4 jugadores, 2 cuando hay más de 8, etc. (recomendado)
 
+----------------
+
 # Vampiros vs Hombres Lobo
 * Dos equipos de igual cantidad de jugadores, Vampiros y Hombres Lobo.
 * Si un jugador es tocado, debe arrodillarse 5 piedras
@@ -34,6 +36,8 @@ header: Juegos de Jugger
 *
 ## Alternativas
 * _Vampiros vs Humanos_: Los vampiros convierten a sus víctimas, pero si un humano toca a un vampiro este queda debe arrodillarse y queda fuera de juego permanentemente.
+
+----------------
 
 # Mata mata *deathmatch*
 * Todos contra todos.
@@ -51,6 +55,8 @@ header: Juegos de Jugger
 ## Alternativas
 * Cuando te tocan, tu cuenta de toques vuelve a 0.
 
+----------------
+
 # Médico
 * Dos equipos
 * En cada equipo hay un jugador con una pompfe (no kette) que es el _médico_.
@@ -62,6 +68,8 @@ header: Juegos de Jugger
 ## Alternativas
  * Hay un sólo _médico_. Al comienzo del juego dos jugadores (uno de cada equipo) se enfrentan; el equipo del ganador del enfrentamiento se queda con el _médico_. El jugador que pierde el enfrentamiento queda arrodillado, y el juego comienza ni bien termina el enfrentamiento.
  * El _médico_ debe tener espada corta y escudo.
+
+----------------
 
 # Enfrentados
 * Un número par de jugadores (mínimo 4)
@@ -82,6 +90,8 @@ header: Juegos de Jugger
 * Si el _molesto_ toca a un jugador, el mismo no se puede levantar.
 * En lugar de armar _parejas enfrentadas_, cada jugador puede tener que tocar al jugador de su derecha y evitar ser tocado por el jugador de su izquierda.
 
+----------------
+
 # Battle Royale
 * Al comienzo del juego, todas las pompfes van juntas en el centro de la cancha (no demasiado juntas).
 * Los jugadores se ponen en cualquiera de las dos líneas de salida.
@@ -96,3 +106,5 @@ header: Juegos de Jugger
 
 ## Alternativas
 * En lugar de que los jugadores queden fuera de juego al ser tocados, se puede combinar con reglas de mata-mata.
+
+----------------

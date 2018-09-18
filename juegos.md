@@ -3,6 +3,24 @@ title: Jugger Argentina
 header: Juegos de Jugger
 ---
 
+# Mata-Mata
+* Varios jugadores.
+* Cuando un jugador es tocado, se arrodilla hasta que toquen al que lo bajó.
+* Gana el jugador que logra tocar a todos.
+
+## Objetivos
+* Aprender a arrodillarse.
+* Aprender a tener percepción de la cancha.
+
+## Alternativas
+* Con honor: los duelos 1vs1 no pueden ser interrumpidos.
+* En equipo: Gana el equipo que toca a todos los otros jugadores. 2vs2, 3vs3, etc.: a medida que aumenta el tamaño de los equipos, el matamata termina antes.
+* Estalingrado: Si un jugador está arrodillado, otro puede intercambiarle la pompfe.
+
+## También conocido como
+* Zombies
+
+
 # Mancha
 * Varios jugadores
 * Un jugador comienza siendo el _mancha_.
@@ -106,5 +124,55 @@ header: Juegos de Jugger
 
 ## Alternativas
 * En lugar de que los jugadores queden fuera de juego al ser tocados, se puede combinar con reglas de mata-mata.
+
+## También conocido como:
+* Los Juegos del Jugger
+
+----------------
+
+# Jugger Buena Onda Style
+* Como jugger pero cada equipo tiene 2 corredores
+* Los corredores pueden agarrar el jugg y pasárselo
+* Los corredores pueden agarrar _las bases_ (propias y ajenas) y moverlas.
+* Los corredores no pueden agarrar una base y el jugg al mismo tiempo
+## Objetivos
+* Desestructurar el concepto de base
+
+----------------
+
+# Street Jugger
+* Como Jugger pero cada equipo tiene 3 jugadores, todos con pompfe/cadena
+* Los jugadores pueden agarrar el jugg, pero cuando lo tienen se convierten en corredores.
+* La pompfe de un jugador que tiene el jugg en su mano es zona de golpeo válida.
+
+## Objetivos
+* Trabajar el concepto de oportunidad al correr
+
+
+----------------
+# Pasar la línea
+* Dos equipos, igual cantidad de jugadores
+* Sin jugg
+* Un equipo gana si todos sus jugadores pasan la línea de base del contrario
+* Si un jugador pasa la línea del contrario, no puede volver
+* No es necesario que todos los jugadores pasen al mismo tiempo la linea de base (pero conviene)
+* Se puede pinear.
+
+## Objetivos
+* Practicar la comunicacion y la coordinacion grupal.
+* Practicar los pineos.
+
+---------
+
+# Ninjugger
+* Como el Ninja, pero con pompfes de Jugger
+* En una ronda, cada jugador está inmóvil
+* Los jugadores toman turnos para hacer un ataque en un único movimiento
+* Si un jugador es atacado, puede hacer un movimiento de defensa
+* El movimiento de ataque o defensa puede ser de pompfe y/o cuerpo
+*
+
+## Objetivos
+* Practicar la dinámica de ataque/contestación/exposición
 
 ----------------

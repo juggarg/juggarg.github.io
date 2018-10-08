@@ -1,0 +1,138 @@
+
+@media screen and (max-device-width : 640px)
+{
+  body or yourdiv element
+  {
+    font-size: 2.4vw;
+  }
+}
+@media screen and (min-device-width : 640px)
+{
+  body or yourdiv element
+  {
+    font-size: 1.7vw;
+  }
+}
+/*'Merriweather',*/
+body {
+       font-family:'Merriweather Sans', sans-serif;
+         font-size: 1.7vw;
+            box-sizing: border-box;
+}
+#content{
+  margin:0px;
+  padding:0px;
+}
+#banner{
+  width:100%;
+}
+#bannerDiv{
+  width:100%;
+  text-align: center;
+  background-color: black;
+  /*margin-bottom:2%;
+  margin-top:2%;*/
+  /*border-bottom: 1px solid gray;*/
+
+}
+.nav{
+  /*width:100%;*/
+  background-color: #ccc;
+    /*border-bottom: 2px solid #888;*/
+}
+.nav nav-link{
+  font-size: 1.2em;
+}
+.navbar .navbar-nav{
+  float: none;
+  vertical-align: top;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.section{
+  width:100%;
+  /*border-bottom: 1px solid #888;*/
+  padding:5% 10%;
+}
+
+.section h1{
+  font-size:2.5em;
+  margin-bottom: 1em;
+  display:inline-block;
+}
+.section h1 img{
+  display:inline-block;
+  height:1.7em;
+  margin-right:0.5em;
+}
+.section p{
+  font-size:1.1em;
+}
+
+
+.section:nth-child(even){
+    background:#222;
+    color:white;
+}
+
+.section:nth-child(odd){
+    background:#000;
+    color:white;
+}
+
+.grid-element {
+  vertical-align: top;
+  text-align: center;
+  display: inline-block;
+  margin:2% 1%;
+  width:7em;
+}
+.grid-element a{
+  color:white;
+}
+.img-round{
+    vertical-align: top;
+    margin:auto;
+    height:5em;
+    width:5em;
+    overflow:hidden;
+    border-radius: 50%;
+    /*background-color: #FFF;*/
+    margin-bottom: 1em;
+}
+.img-round img{
+  height:5em;
+  width:5em;
+}
+
+.mb-0{
+font-weight:1em;
+}
+.mb-0 a{
+	
+}
+
+
+/*GOOGLE MAPS*/
+<style>
+    .google-maps {
+        /*position: relative;*/
+        /*padding-bottom: 75%; // This is the aspect ratio*/
+        /*height: 0;*/
+        /*min-height:700;*/
+        /*overflow: hidden;*/
+        /*margin-left: auto;*/
+        /*margin-right: auto;*/
+    }
+    .google-maps iframe {
+        /*position: absolute;*/
+        top: 0;
+        left: 0;
+        width: 70% !important;
+        height: 100% !important;
+    }
+</style>
+
+

@@ -165,3 +165,12 @@ font-weight:1em;
         min-height: 300px;
     }
 </style>
+
+
+a{
+  color:#2AD69F !important;
+}
+
+p,h1,a,h2,h3,h4{
+    text-shadow: 2px 2px #000000;
+}

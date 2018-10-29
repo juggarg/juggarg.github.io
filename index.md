@@ -7,8 +7,8 @@ header: Jugger Argentina
 
 
 ## Enlaces
-* [TIA 2017](tia/index.html)
-* TIA 2018 (pronto)
+* [TIA 2018](tia/index.html)
+* [TIA 2017](tia2017/index.html)
 * [Juegos de Jugger](juegos.html)
 
 ## Contacto

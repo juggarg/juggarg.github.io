@@ -4,7 +4,7 @@ header: AJULP - Asociación de Jugger de La Plata
 ---
 
 
-El Jugger es un nuevo deporte alternativo. Todas las prácticas y eventos son gratuitos. ¡Acercate a participar!.
+El Jugger es un nuevo deporte alternativo. Todas las prácticas y eventos son gratuitos. ¡Acercate a participar!
 
 En la Asociación de Jugger de La Plata, somos un grupo que desde el 2013 promueve el deporte en la ciudad y el país.
 

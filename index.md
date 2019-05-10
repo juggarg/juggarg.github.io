@@ -6,8 +6,8 @@ El Jugger es un nuevo deporte alternativo. Todas las prácticas y eventos son gr
 
 # Entrenamientos
 
-* Martes de 16 a 18hs, [Campo de Deportes de la UNLP](http://deportes.unlp.edu.ar/) (50 y 115)
-* Miércoles de 16 a 18hs, [Campo de Deportes de la UNLP](http://deportes.unlp.edu.ar/) (50 y 115)
+* Martes de 16 a 18hs, [Campo de Deportes de la UNLP](http://deportes.unlp.edu.ar/) (50 y 116)
+* Miércoles de 16 a 18hs, [Campo de Deportes de la UNLP](http://deportes.unlp.edu.ar/) (50 y 116)
 * Sábados a la tarde en el Parque Saavedra (65 y 12). El horario exacto se publica cada semana en [Jugger La Plata (facebook)](https://www.facebook.com/groups/883679841713425/)
 
 # AJuLP

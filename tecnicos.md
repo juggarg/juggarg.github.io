@@ -31,10 +31,10 @@
 
 **Sin pompfe**
 
+* Se juega en un cuadrilátero de 5x5.
 * Similar a una mancha, pero les que están de a dos deben tocar al mismo tiempo al otre.
 * Si no lo tocan al mismo tiempo, se alejan y vuelven a empezar.
 * Si lo tocan al mismo tiempo, cambia el que juega solo.
-* Se juega en un cuadrilátero de 5x5.
 * Variante: El que juega solo puede tocar a alguno de los otros; si lo hace sin ser tocado, intercambia el rol con el que lo tocó
 
 **Con pompfe**

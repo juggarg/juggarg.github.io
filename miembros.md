@@ -4,18 +4,21 @@ La AJULP está formada por varios jugadores a los que nos interesa aportar un po
 
 Invitamos a todos los jugadores a formar parte de la AJULP. El único requisito es aportar con algo concreto a la organización y promoción del mismo.
 
+* [Inventario de Equipamiento de AJULP](https://docs.google.com/spreadsheets/d/1JsGU1LYCpJ2_mN7Y61mtASekxOKeYFjxu1dJSDK69vE/edit#gid=0)
+* [Tesorería](https://docs.google.com/spreadsheets/d/170XKk_sykpyGjFLvttrkvoK_aO9Wc1kStxV5CktrgMA/edit#gid=0)
+
 ## Miembros actuales
 
 * Federico Adra (2019):
-* Tomás Arias (2018): Entrenamientos de los Sábados
+* Tomás Arias (2018): Entrenamiento del Sábados
 * Camila Barrios (2018): Difusión, Liga, Gráfica
-* Elisa Bellone: Entrenamientos de los Miércoles, Gráfica
-* Santiago "Santa" Ferrero (2018): Entrenamientos de los Sábados
+* Elisa Bellone: Entrenamiento del Miércoles, Gráfica
+* Santiago "Santa" Ferrero (2018): Entrenamiento del Sábados
 * Lautaro "Laulo" Ramos (2017):
 * Joaquín Matascuso (2017): Liga
 * Nicolás (Miki) Matray (2013): Reglamento
-* Facundo Quiroga (2015): Entrenamientos de los Martes, Tesorero, Contacto UNLP
-* Juliana Silio  (2017): Entrenamientos de los Martes, Gráfica
+* Facundo Quiroga (2015): Entrenamiento del Martes, Tesorero, Contacto UNLP
+* Juliana Silio  (2017): Entrenamiento del Martes, Gráfica
 * Gisela Xanxiao (2017): Gráfica
 
 ## Equipos actuales

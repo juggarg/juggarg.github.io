@@ -2,7 +2,7 @@
 
 La AJULP está formada por varios jugadores a los que nos interesa aportar un poco más a la promoción del Jugger.
 
-Invitamos a todos los jugadores a formar parte de la AJULP. Los únicos requisitos son ser un jugador del deporte y aportar con algo concreto a la organización y promoción del mismo.
+Invitamos a todos los jugadores a formar parte de la AJULP. El único requisito es aportar con algo concreto a la organización y promoción del mismo.
 
 ## Miembros actuales
 

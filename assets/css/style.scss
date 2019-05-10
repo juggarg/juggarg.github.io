@@ -20,7 +20,7 @@
 .footer-btn{
   display: inline-block;
   margin-bottom: 1rem;
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: rgba(13, 92, 115, 0.1);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -28,7 +28,6 @@
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.3);

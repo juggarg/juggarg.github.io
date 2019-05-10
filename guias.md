@@ -5,7 +5,7 @@
 ## Entrenamientos
 
 * [Juegos](juegos.html)
-* [Preparación física específica](fisica.html)
+* [Preparación física](fisicos.html)
 * [Ejercicios Técnicos](tecnicos.html)
 * [Ejercicios Tácticos](tacticos.html)
 

@@ -21,3 +21,9 @@
 
 ## 2015
 * Liga Platense -
+
+
+# Notas y apariciones mediáticas
+
+## 2014
+* [Transeuntes LP](https://www.youtube.com/watch?v=hKn9RYGIQbc)

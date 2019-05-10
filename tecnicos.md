@@ -1,9 +1,11 @@
 ## Caminar en guardia
 * Se ponen dos conos trazando una línea.
-* **Solo**: Caminar en guardia para adelante y atrás, siempre mirando hacia adelante. Siempre en línea con los conos. Cuando se llega a un cono se cambia de dirección.
-* **Con estocada**: Como Solo, pero cada X pasos, realizás una estocada.
-* **En parejas**: Como Solo, pero enfrentades manteniendo la distancia.
-* **Con pompfe**: Como Solo, pero con pompfe.
+* Caminar en guardia para adelante y atrás, siempre mirando hacia adelante.
+* Siempre en línea con los conos.
+* Cuando se llega a un cono se cambia de dirección.
+* **Con estocada**: Cada X pasos, realizás una estocada.
+* **En parejas**: Enfrentades manteniendo la distancia.
+* **Con pompfe**: Con pompfe (sin luchar).
 
 ## Trote manteniendo distancia
 * En parejas.

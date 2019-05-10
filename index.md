@@ -2,6 +2,7 @@
 
 El Jugger es un nuevo deporte alternativo. Todas las prácticas y eventos son gratuitos. ¡Acercate a participar!
 
+![alt text](assets/img/banner.jpg "Jugadores de Jugger")
 
 # Entrenamientos
 

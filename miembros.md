@@ -1,6 +1,8 @@
-Formamos la AJULP varios jugadores que nos interesa aportar un poco más a la promoción del Jugger.
+## Organización
 
-Invitamos a todos los jugadores a formar parte de la AJULP.
+La AJULP está formada por varios jugadores a los que nos interesa aportar un poco más a la promoción del Jugger.
+
+Invitamos a todos los jugadores a formar parte de la AJULP. Los únicos requisitos son ser un jugador del deporte y aportar con algo concreto a la organización y promoción del mismo.
 
 ## Miembros actuales
 
@@ -21,8 +23,8 @@ Invitamos a todos los jugadores a formar parte de la AJULP.
 * [Buena Onda](https://www.facebook.com/BuenaOndaJugger/?)
 * [Galacto Mulitas](https://www.facebook.com/GalactoMulitas-FC-538050856585862/)
 * [Insert Coin](https://www.facebook.com/insertcoinjuggerteam/)
-* Pingüinos(https://www.facebook.com/pingwinjugger/)
-* The Harrys Crew(https://www.facebook.com/THCJuggerTeam/)
+* [Pingüinos](https://www.facebook.com/pingwinjugger/)
+* [The Harrys Crew](https://www.facebook.com/THCJuggerTeam/)
 * X-Force
 
 ## Miembros anteriores
@@ -38,3 +40,4 @@ Ordenados por antigüedad:
 * Florencia Saraví-Gamboa (2015-2017)
 * Rodrigo Villegas (2015-2017)
 * Gabriel "Chile" Bustos (2015-2018)
+* Álvaro Perez (2016-2019)

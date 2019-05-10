@@ -9,4 +9,4 @@ Hay varios grupos de Jugger en Argentina:
 * [Jugger Oeste](https://www.facebook.com/groups/124799998053686/?ref=br_rs)
 * [Jugger CABA (facebook)](https://www.facebook.com/JuggerCABA/)
 
-## Jugger en el mundo
+<!-- ## Jugger en el mundo -->

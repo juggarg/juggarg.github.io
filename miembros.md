@@ -1,4 +1,4 @@
-## Organización
+# Organización
 
 La AJULP está formada por varios jugadores a los que nos interesa aportar un poco más a la promoción del Jugger.
 

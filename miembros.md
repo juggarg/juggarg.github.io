@@ -37,11 +37,12 @@ Invitamos a todos los jugadores a formar parte de la AJULP. Los únicos requisit
 * Sebastián de los Ríos (2014-2015)
 * José Martino (2014-2015)
 * José Marín Tellez (2014-2016)
+* Yael Elia (2014-2016)
+*  (2014-2016)
 * Francis Sartori (2014-2016)
 * Ramiro Idiazabal (2014-2016)
 * Florencia Saraví-Gamboa (2015-2017)
 * Rodrigo Villegas (2015-2017)
 * Gabriel "Chile" Bustos (2015-2018)
 * Álvaro Perez (2016-2019)
-* Yael Elia (2014-2016)
-* + muchos otros
+* y muchos otros

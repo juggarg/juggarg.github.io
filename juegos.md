@@ -173,5 +173,4 @@ Hay varios juegos alternativos que utilizan el mismo equipamiento que el Jugger.
 
 ## Objetivos
 * Practicar la dinámica de ataque/contestación/exposición
-
 ----------------

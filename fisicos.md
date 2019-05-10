@@ -1,3 +1,5 @@
+# Preparación física 
+
 ## Trote en 4 direcciones
 4 conos formando un rectángulo, con un par de lados el doble de largo que otros.
 En los lados largos se trota hacia adelante y atrás; en los cortos hacia los costados. Cuando se corre para los costados se mueven los brazos.

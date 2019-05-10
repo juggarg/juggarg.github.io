@@ -1,7 +1,6 @@
----
-title: Jugger Argentina
-header: Juegos de Jugger
----
+# Juegos de Jugger
+
+Hay varios juegos alternativos que utilizan el mismo equipamiento que el Jugger. Algunos tienen valor como entrenamiento o herramienta de aprendizjae, otros son mayormente para divertirse.
 
 # Mata-Mata
 * Varios jugadores.
@@ -15,7 +14,7 @@ header: Juegos de Jugger
 ## Alternativas
 * Con honor: los duelos 1vs1 no pueden ser interrumpidos.
 * En equipo: Gana el equipo que toca a todos los otros jugadores. 2vs2, 3vs3, etc.: a medida que aumenta el tamaño de los equipos, el matamata termina antes.
-* Estalingrado: Si un jugador está arrodillado, otro puede intercambiarle la pompfe.
+* Estalingrado: Si un jugador está arrodillado, otroEstos juegos  puede intercambiarle la pompfe.
 
 ## También conocido como
 * Zombies

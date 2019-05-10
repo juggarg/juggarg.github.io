@@ -1,3 +1,5 @@
+# Ejercicios técnicos
+
 ## Caminar en guardia
 * Se ponen dos conos trazando una línea.
 * Caminar en guardia para adelante y atrás, siempre mirando hacia adelante.

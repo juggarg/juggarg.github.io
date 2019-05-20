@@ -28,5 +28,8 @@
 # Notas y apariciones mediáticas
 
 ## 2014
-* [Transeuntes LP](https://www.youtube.com/watch?v=hKn9RYGIQbc)
-* []()
+* [Transeuntes LP](http://www.transeuntes.net/2014/05/17/321-jugger/)  ([video](https://www.youtube.com/watch?v=hKn9RYGIQbc))
+* [Periodismo UNLP](https://perio.unlp.edu.ar/sitios/puntoperio/2014/10/28/jugger-un-deporte-moderno-y-antiguo-a-la-vez/)
+
+
+

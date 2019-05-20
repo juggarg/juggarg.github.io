@@ -13,12 +13,13 @@ El [reglamento actual](assets/doc/reglamento-tia3.pdf) es el mismo del torneo TI
 * [A Game of Jugger (video)](https://www.youtube.com/watch?v=S3S2s0Xn3NQ)
 
 ## Entrenamientos y tácticas
-
-* [Juegos](juegos.html)
-* [Preparación física](fisicos.html)
-* [Ejercicios Técnicos](tecnicos.html)
-* [Ejercicios Tácticos](tacticos.html)
+* Entrenamientos AJULP
+  * [Juegos](juegos.html)
+  * [Preparación física](fisicos.html)
+  * [Ejercicios Técnicos](tecnicos.html)
+  * [Ejercicios Tácticos](tacticos.html)
 * [123 Jugger - Consejos de juego y entrenamiento](https://www.facebook.com/123jugger)
+* [Juggercoach](https://www.juggercoach.com/es/)
 
 
 ## Confección del equipamiento

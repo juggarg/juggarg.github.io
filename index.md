@@ -1,10 +1,14 @@
 
 
-El Jugger es un nuevo deporte alternativo. Todas las prácticas y eventos son gratuitos. ¡Acercate a participar!
+El Jugger es un nuevo deporte alternativo. Combina elementos de esgrima con juego en equipo. El equipamiento es acolchado y completamente seguro.
+
+Todas las prácticas y eventos son gratuitos. ¡Acercate a participar!
 
 ![alt text](assets/img/banner.jpg "Jugadores de Jugger")
 
 # Entrenamientos
+
+Los entrenamientos son gratuitos, te prestamos el equipamiento y te enseñamos a jugar, sólo tenés que traer ropa  cómoda para hacer deporte.
 
 * Martes de 16 a 18hs, [Campo de Deportes de la UNLP](http://deportes.unlp.edu.ar/) (50 y 116)
 * Miércoles de 16 a 18hs, [Campo de Deportes de la UNLP](http://deportes.unlp.edu.ar/) (50 y 116)

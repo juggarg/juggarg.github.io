@@ -3,7 +3,7 @@
 
 ## Reglamento
 
-El [reglamento actual](assets/doc/reglamento-tia3.pdf) es el mismo del torneo TIA 2018.
+El [reglamento actual](assets/doc/reglamento-tia3.pdf) es el mismo del torneo TIIIA 2018.
 
 ## Explicaciones introductorias del Jugger
 * [¿Qué es el Jugger? Fragmento de la película "Yo soy Jugger"](https://www.youtube.com/watch?v=fyNjsC58-XU)

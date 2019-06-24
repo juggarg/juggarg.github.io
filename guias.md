@@ -26,7 +26,7 @@ El [reglamento actual](assets/doc/reglamento-tia3.pdf) es el mismo del torneo TI
 
 ### Pompfes
 
-### Kettes
+### Cadenas
 
 ### Escudos
 

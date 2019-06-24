@@ -4,7 +4,7 @@
   * Que es el jugger
   * Jugger en La Plata como cuando y donde
 * La Asociación
-  * Objetivo
+  * Objetivos
   * Miembros
   * Recursos (tesorería y materiales y otras guias?, link al drive, etc)
 * Guias
@@ -13,11 +13,10 @@
   * Materiales
   * Eventos
 * Eventos
+  - Calendario?
   * Torneos/ligas
-  * Notas periodísticas
 * Jugger en Argentina
   * Historia
   * Núcleos
   * Jugger en el mundo
-  
-  
+  - Notas periodísticas

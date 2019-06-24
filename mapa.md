@@ -1,12 +1,12 @@
-
+Ordenar todo por prioridades
 
 * Index
-  * Que es el jugger
-  * Jugger en La Plata como cuando y donde
+  * Qué es el jugger -expandir-
+  * Jugger en La Plata como cuando y donde -decidir y actualizar-
 * La Asociación
-  * Objetivos
-  * Miembros
-  * Recursos (tesorería y materiales y otras guias?, link al drive, etc)
+  * Objetivo - métodos **aclarar**
+  * Miembros - Fotos? Funciones? Estadía?
+  * Recursos (tesorería y materiales?, link al drive, etc)
 * Guias
   * Reglamento
   * Juego
